@@ -1,2 +1,2 @@
 # dealer
-robo para jogos online
+robô para jogos online
